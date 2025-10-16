@@ -70,11 +70,11 @@ const OptiMed = {
 ---
 
 ## 🌐 Conecte-se Conosco
-<div align="center">
+
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:meobyami1@gmail.com)
 [![Linkedin: MarceloEnoch](https://img.shields.io/badge/-MarceloEnoch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-enoch/)](https://www.linkedin.com/in/marcelo-enoch-1b2807238/)
-[![GitHub: MarceloEnoch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/MarceloEnoch) </div>
+[![GitHub: MarceloEnoch](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/MarceloEnoch)
 [![GitHub](https://img.shields.io/badge/GitHub-OptiMed-black?style=for-the-badge&logo=github)](https://github.com/Opti-Med)
 
 </div>
