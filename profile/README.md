@@ -50,24 +50,15 @@ A **OptiMed** é especializada em **sistemas corporativos de saúde**, com foco 
 
 ---
 
-## 📜 Status da Organização
+## 📜 Nossa Identidade
 
-<details>
-  <summary>📌 Clique para expandir</summary>
+<div align="center">
 
-```js
-const OptiMed = {
-  mission: "Transformar a gestão médica com tecnologia de ponta",
-  values: ["Segurança", "Inovação", "Escalabilidade", "Confiança"],
-  stack: {
-    backend: ["Node.js", "Prisma"],
-    frontend: ["React", "Next.js"],
-    devops: ["CI/CD"]
-  },
-  motto: "Saúde inteligente, dados seguros."
-}
-```
-</details>
+| Missão | Valores | Stack Tecnológica | Lema |
+|--------|---------|------------------|------|
+| Transformar a gestão médica com tecnologia de ponta | Segurança • Inovação • Escalabilidade • Confiança | **Backend:** Node.js, Prisma <br> **Frontend:** React, Next.js <br> **DevOps:** CI/CD | *Saúde inteligente, dados seguros* |
+
+</div>
 
 ---
 
@@ -75,7 +66,7 @@ const OptiMed = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meobyami1@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meobyami1@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo%20Enoch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-enoch-1b2807238/)  
 [![GitHub](https://img.shields.io/badge/GitHub-MarceloEnoch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloEnoch)  
 [![GitHub Org](https://img.shields.io/badge/GitHub-OptiMed-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Opti-Med)  
@@ -91,13 +82,6 @@ Qualquer uso não autorizado será tratado conforme previsto em contrato.
 
 ---
 
-✨ Desenvolvido com dedicação pela equipe **OptiMed**.
-```
-
-### Melhorias aplicadas:
-- Texto mais direto e profissional, com espaçamento e formatação consistentes.  
-- Inclusão de **React** e **Next.js** nos badges de tecnologias (já estavam citados no status da organização).  
-- Links de contato modernizados com **badges padronizados estilo "for-the-badge"**, mais elegantes e consistentes.  
-- Estrutura mais limpa e fácil de ler, com divisões claras.  
-
-Quer que eu prepare também uma **versão em inglês** para atrair colaboradores internacionais?
+<div align="center">
+💡 **OptiMed** — Tecnologia a serviço da saúde.
+</div>
